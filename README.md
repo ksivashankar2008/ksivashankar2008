@@ -1,30 +1,30 @@
+# 👋 Hey there! Thanks for dropping by.
 
+```js
 const Sivashankar = {
-  role: "Software Developer",
+  role: "Computer Science Student & Developer",
 
   interests: [
-    "Full-Stack Development",
+    "Web Development",
     "Software Architecture",
-    "Business Automation",
-    "SaaS & MVP Development"
+    "Business Automation"
   ],
 
   currentlyLearning: [
-    "JavaScript & Backend Development",
-    "APIs, HTTP & System Integration",
-    "Cloud & Deployment",
-    "Automation and AI Workflows"
+    "JavaScript & Full-Stack Development",
+    "APIs, backend systems, and databases",
+    "Automation and AI-powered workflows",
+    "How things work under the hood"
   ],
 
   building: [
     "SaaS Products",
-    "E-commerce Solutions",
-    "Developer Tools",
-    "Business Automation Systems"
+    "MVPs",
+    "E-commerce Platforms",
+    "Automation Solutions"
   ],
 
-  goal: "Understand how systems work and build software that scales with real-world needs",
+  goal: "Learn, build, and create software that solves real-world problems",
 
   philosophy: "Learn · Build · Repeat"
 };
-
