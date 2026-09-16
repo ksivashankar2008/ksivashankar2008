@@ -1,33 +1,30 @@
-# Hi 👋, I'm Sivashankar
 
-### CSE Student | Full-Stack Developer | Builder 🚀
+const Sivashankar = {
+  role: "Software Developer",
 
-I'm a Computer Science student passionate about building
-web applications, automation tools, and SaaS products.
+  interests: [
+    "Full-Stack Development",
+    "Software Architecture",
+    "Business Automation",
+    "SaaS & MVP Development"
+  ],
 
-## 🚀 What I'm Building
+  currentlyLearning: [
+    "JavaScript & Backend Development",
+    "APIs, HTTP & System Integration",
+    "Cloud & Deployment",
+    "Automation and AI Workflows"
+  ],
 
-- 🌐 Full-Stack Web Applications
-- 🤖 Business Automation
-- 🚀 SaaS Products
-- 📚 Learning Data Structures & Algorithms
+  building: [
+    "SaaS Products",
+    "E-commerce Solutions",
+    "Developer Tools",
+    "Business Automation Systems"
+  ],
 
-## 🛠️ Technologies
+  goal: "Understand how systems work and build software that scales with real-world needs",
 
-HTML • CSS • JavaScript • React • Tailwind CSS
-Node.js • Express.js • MongoDB • Git • GitHub
+  philosophy: "Learn · Build · Repeat"
+};
 
-## 📌 Current Focus
-
-- Full-Stack Development
-- Automation
-- AI-powered applications
-- Building real-world projects
-
-## 📊 My Journey
-
-> Learn → Build → Ship → Improve
-
----
-
-⭐ Thanks for visiting my profile!
